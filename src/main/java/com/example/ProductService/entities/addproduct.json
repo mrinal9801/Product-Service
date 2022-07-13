@@ -1,0 +1,3 @@
+//json file to add a product in product list
+
+{"productId":730,"productPrice":299,"productName":"coffee","categoryName":"Beverages"}
